@@ -30,7 +30,9 @@ namespace SDETCourse
 
             Console.WriteLine(humano.Bombear(2));
             Console.WriteLine(perro.Bombear(2));
-            
+
+            Console.WriteLine("changes");
+
 
         }
     }
