@@ -12,27 +12,8 @@ namespace SDETCourse
         {
             AccionesHumanos humano = new AccionesHumanos();
             AccionesPerros perro = new AccionesPerros();
-
-            humano.Respirar();
-            perro.Respirar();
-
-            humano.Digerir();
-            perro.Digerir();
-
-            humano.Caminar();
-            perro.Caminar();
-
-            humano.Correr();
-            perro.Correr();
-
-            Console.WriteLine(humano.get_meat_protein());
-            Console.WriteLine(perro.get_meat_protein());
-
-            Console.WriteLine(humano.Bombear(2));
-            Console.WriteLine(perro.Bombear(2));
-
-            Console.WriteLine("changes");
-
+            humano.actividades_humano();
+            perro.actividades_perro();
 
         }
     }

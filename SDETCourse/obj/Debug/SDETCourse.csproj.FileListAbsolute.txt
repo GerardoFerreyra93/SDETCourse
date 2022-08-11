@@ -4,10 +4,15 @@ C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\SDETCourse.dll
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\SDETCourse.pdb
+C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Baseline.dll
+C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\DryIoc.dll
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\System.ValueTuple.dll
+C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\DryIoc.xml
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\bin\Debug\System.ValueTuple.xml
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.csproj.AssemblyReference.cache
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.csproj.CoreCompileInputs.cache
 C:\Users\gerardo.ferreyra\source\repos\SDETCourse\SDETCourse\obj\Debug\SDETCourse.csproj.CopyComplete
